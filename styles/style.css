@@ -1,0 +1,46 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Roboto Mono', monospace; /* this should be the rest of the output you got from Google fonts */
+    background-color: #737171;
+  }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+  }
+
+h2, h3 {
+    font-size: 30px;
+    text-align: center;
+    color: #737171;
+}
+  
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+a {
+    color: darkcyan;
+  }
+
+a:hover {
+    color: darkblue;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #A6A4A4;
+    padding: 0 20px 20px 20px;
+    border: 2px solid black;
+  }
